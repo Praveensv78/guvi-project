@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.bg-container{
+    background-image: url("https://www.linkpicture.com/q/Website.jpg");
+    height: 100vh;
+    background-size: cover;
+    font-weight:bold;
+}
